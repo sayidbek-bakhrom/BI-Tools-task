@@ -1,7 +1,7 @@
 # Superstore Data Warehouse & Power BI Analytics Project
 ## Overview
 
-This project demonstrates the design and implementation of a data warehouse and analytical reporting solution using the Superstore dataset.
+This project demonstrates the design and implementation of a data warehouse and analytical reporting solution using the [Superstore dataset.](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 The project simulates a real-world ETL pipeline with incremental data loads, implements Slowly Changing Dimensions (SCD Type 1 & Type 2), and builds a Power BI analytical report on top of a dimensional data mart.
 
 The architecture follows a three-layer data warehouse design:
